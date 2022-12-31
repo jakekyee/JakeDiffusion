@@ -4,7 +4,7 @@
 
 
 
-A stable diffusion 1.5 instance trained on my face.  
+A selection of images generated from a stable diffusion 1.5 instance trained on my face. DeepJakes, if you will.
 <br>
 <br>
 ### A
